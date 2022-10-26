@@ -1121,6 +1121,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 825b377b975740c40b2208d9126fdfe4, type: 2}
   - {fileID: 11400000, guid: e8a222a073507f442a1e7ab1589258b0, type: 2}
   - {fileID: 11400000, guid: 7e6f69b21fd4d0e438d3b9f83ca2988e, type: 2}
+  - {fileID: 11400000, guid: d10c2cbaef58b7f4aa4b4cbb6909f98a, type: 2}
   trackTextUI: {fileID: 5835231986904760131}
 --- !u!1 &5835231986904760157
 GameObject:

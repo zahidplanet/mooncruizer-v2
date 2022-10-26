@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 581052514480835041}
   m_LocalRotation: {x: 0, y: 0, z: 0.08471258, w: 0.9964055}
   m_LocalPosition: {x: 0.6527, y: 0.1802, z: 0}
-  m_LocalScale: {x: 1.9473164, y: 0.41700476, z: 0.5609249}
+  m_LocalScale: {x: 1.9473165, y: 0.4170048, z: 0.5609249}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8820210474965186941}
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 1233
+  m_VersionIndex: 1269
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -746,7 +746,6 @@ MonoBehaviour:
   onRelease:
     m_PersistentCalls:
       m_Calls: []
-  radio: {fileID: 0}
   ignitionSound: {fileID: 0}
   rb: {fileID: 0}
   lS: {fileID: 0}

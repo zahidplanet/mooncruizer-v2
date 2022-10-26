@@ -9,18 +9,18 @@ public static class SceneUtils
     public enum SceneId
     {
         StarLobby,
-        MoonScene,
+        MoonCruizerMaze,
         ComplexInteractions
         
     }
 
-    public static readonly string[] scenes = { Names.StarLobby, Names.MoonScene, Names.ComplexInteractions };
+    public static readonly string[] scenes = { Names.StarLobby, Names.MoonCruizerMaze, Names.ComplexInteractions };
     
     public static class Names
     {
         public static readonly string XRPersistent = "XR Persistent";
         public static readonly string StarLobby = "Star Lobby";
-        public static readonly string MoonScene = "Moon Scene";
+        public static readonly string MoonCruizerMaze = "Moon Cruizer Maze";
         public static readonly string ComplexInteractions = "Complex Interactions";
 
     }

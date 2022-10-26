@@ -13,10 +13,10 @@ public class SceneMenu
         OpenScene(SceneUtils.Names.StarLobby);
     }
 
-    [MenuItem("Scenes/MoonScene")]
+    [MenuItem("Scenes/MoonCruizerMaze")]
     static void OpenMaze()
     {
-        OpenScene(SceneUtils.Names.MoonScene);
+        OpenScene(SceneUtils.Names.MoonCruizerMaze);
     }
 
     [MenuItem("Scenes/ComplexInteractions")]
