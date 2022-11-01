@@ -43,7 +43,7 @@ Material:
     m_Floats:
     - _DissolvePower: -0.35
     - _MaskPower: 0.8
-    - _NoiseScale: 13
+    - _NoiseScale: -8.5
     - _QueueControl: 0
     - _QueueOffset: 0
     - _WobbleAmount: 0
